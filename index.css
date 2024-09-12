@@ -1,0 +1,49 @@
+table {
+    border: 0 solid white;
+    border-collapse: collapse;
+    font-family: Tahoma, sans-serif;
+}
+th {
+    height: 60px;
+    color: blue;
+}
+td {
+    text-align: center;
+    width: 60px;
+}
+.first2rows {
+    height: 25px;
+}
+.daysrows {
+    height: 35px;
+}
+td.days {
+    border: 3px solid lightgrey;
+}
+.sunday {
+    color: red;
+}
+.satday {
+    color: blue;
+}
+.redday {
+    border: 1px solid white;
+    background-color: red;
+    color: white;
+}
+.blueday {
+    border: 1px solid white;
+    background-color: blue;
+    color: white;
+}
+.weekdays {
+    border: 1px solid white;
+    background-color: orange;
+    color: white;
+}
+sub {
+    font-size: 70%;
+}
+.footno {
+    color: black;
+}
